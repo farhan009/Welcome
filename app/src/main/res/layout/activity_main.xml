@@ -10,6 +10,7 @@
     android:background="#E6E6E6">
 
     <!--Custom Style create-->
+
     <TextView
         android:text="Welcome"
         style="@style/text_Style.text_Style2"

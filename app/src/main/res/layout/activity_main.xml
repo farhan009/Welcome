@@ -9,21 +9,15 @@
     android:orientation="vertical"
     android:background="#E6E6E6">
 
+    <!--Custom Style create-->
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="Welcome"
-        android:textSize="40sp"
-        android:textStyle="bold"
+        style="@style/text_Style.text_Style2"
         android:textColor="@color/colorPrimaryDark"/>
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="Farhan !!!"
-        android:textSize="40sp"
-        android:textStyle="bold"
-        android:textColor="#7855BB"
+        style="@style/text_Style.text_Style2"
         android:layout_marginBottom="20dp"/>
 
     <TextView
